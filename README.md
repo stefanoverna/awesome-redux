@@ -290,6 +290,7 @@
     * [**redux-fetch-middleware** - Redux middleware that help user to treat simple request via fetch api](https://github.com/zslucky/redux-fetch-middleware)
     * [**redux-url** - A Redux middleware for synchronizing the URL with the state](https://github.com/jedirandy/redux-url)
     * [**redux-most** - Most.js based middleware for Redux. Handle async actions with monadic streams & reactive programming.](https://github.com/joshburgess/redux-most)
+    
 
 * Tools
     * [**reactotron** - Control, monitor, and instrument your React Native apps from the comfort of your TTY](https://github.com/skellock/reactotron)
@@ -375,6 +376,7 @@
     * [**listate** - Library to listen/observe/watch changes of Redux store state](https://github.com/gamtiq/listate)
     * [**redux-reducer-async** - Create redux reducers for async behaviors of multiple actions.](https://github.com/AndersDJohnson/redux-reducer-async)
     * [**redux-autoreducers** - Redux Auto reducers generator.](https://github.com/oxyno-zeta/redux-autoreducers)
+    * [**redux-bees** - A nice, short and declarative way to interact with JSON APIs](https://github.com/cantierecreativo/redux-bees)
 
 
 * Frameworks
